@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: rgb(240, 21, 21);
+}
+.Nav{
+  text-align: left;
+}
+.card-collection{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.standout{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px,rgba(51, 51, 51, 0.16) 0px 0px 0px 3px;
+  }
+  .Nav-item{
+    text-decoration: none;
+    text-transform: none;
+   
+  }
+  .welcome{
+    align-items: right;
+  }
